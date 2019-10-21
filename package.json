@@ -1,5 +1,5 @@
 {
-  "name": "lite-server",
+  "name": "server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AboUsaif16/lite-server/issues"
   },
-  "homepage": "https://github.com/AboUsaif16/lite-server#readme"
+  "homepage": "https://github.com/AboUsaif16/lite-server#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
